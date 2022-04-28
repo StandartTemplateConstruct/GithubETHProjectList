@@ -20,3 +20,19 @@ last 200 twits with #ProjectFinancier are fetched. The pattern of github repos i
  - contents of Readme.md, formatted
  - *optional* translation to languages of choice (based on the LANGUAGES: EN, ES statement in `.finpresent` file in the repo)
  - *optional* navigation through all `.md` files of github repo tree in-site 
+
+
+
+#### old
+
+
+GithubDonationPortfolio.com
+A web portfolio of GitHub projects of the user with metamask enabled donation links per project.
+
+Fetches from the README.md of the project:
+
+ETH wallet for donation
+How much is needed to project completion
+Fetches from Eth network:
+
+how much total have been sent to this wallet
